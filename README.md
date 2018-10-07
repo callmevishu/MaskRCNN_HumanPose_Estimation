@@ -9,7 +9,7 @@ https://github.com/matterport/Mask_RCNN
 
 https://github.com/Superlee506/Mask_RCNN_Humanpose
 
-Dataset was downloaded from COCODataset.org
+Dataset was downloaded from COCODataset.org. Some sample images are present in the 'images' folder, however need to download following dataset files and unzip them to the 'images' folder.
 
 Train - http://images.cocodataset.org/zips/train2017.zip
 

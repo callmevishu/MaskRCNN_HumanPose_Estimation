@@ -8,3 +8,6 @@ The primary codebase was obtained from GitHub repositories of public implementat
 https://github.com/matterport/Mask_RCNN
 
 https://github.com/Superlee506/Mask_RCNN_Humanpose
+
+The pretrained model weights can be downloaded from https://github.com/callmevishu/MaskRCNN_HumanPose_Estimation/releases
+
